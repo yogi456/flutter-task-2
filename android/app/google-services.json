@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "945478502706",
+    "firebase_url": "https://mylinux-114e6.firebaseio.com",
+    "project_id": "mylinux-114e6",
+    "storage_bucket": "mylinux-114e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:945478502706:android:057344496e5a9120aeef2b",
+        "android_client_info": {
+          "package_name": "com.yogesh.linuxapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "945478502706-j872bl742hrvn7lg59aq3a9lt3viofpn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBK-4XkaCTFl2MOPSJ6puj3Z_QZMPZxRo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "945478502706-j872bl742hrvn7lg59aq3a9lt3viofpn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
